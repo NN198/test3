@@ -1,8 +1,3 @@
 new repo - 10/03
-<<<<<<< HEAD
-neel
-=======
-
->>>>>>> dc6fe573c2474d593558853c7dbf52d09dcd887d
 new branch - b1 - Noella
 
